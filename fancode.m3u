@@ -2,28 +2,38 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 02:44:01 PM 01-11-2026 (BD Time)
-# Live Match : 6
+# Last Updated: 09:46:15 PM 01-11-2026 (BD Time)
+# Live Match : 11
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-AFG_fc-web.jpg" group-title="Fancode",Australia vs Afghanistan [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250330/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-Ireland_fc-web.jpg" group-title="Fancode",Ireland vs Namibia [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250335/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250393_53125_SS-W_HB-W_fc-web_1793352701389.jpg" group-title="Fancode",Sydney Sixers Women vs Hobart Hurricanes Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250393/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg" group-title="Fancode",INAC Kobe Leonessa Women vs Bam Khatoon FC [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250248/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg" group-title="Fancode",Hwacheon KSPO WFC vs 4.25 SC Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250254/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249851_53101_PG_ADL_fc-Web_1792223292274.jpg" group-title="Fancode",Perth Glory vs Adelaide United [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249851/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250498_53130_SHA_ABD_fc-web_1792412929343.jpg" group-title="Fancode",Abu Dhabi vs Sharjah [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250498/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM1.jpg" group-title="Fancode",Zimbabwe vs Afghanistan [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249771/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249210_53038_BIR-W_TOT-W_fc-web.jpg" group-title="Fancode",Birmingham City F.C. Women vs Tottenham Hotspur Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249210/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249211_53038_BHA-W_CP-W_fc-web.jpg" group-title="Fancode",Brighton and Hove Albion Women vs Crystal Palace Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249211/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249212_53038_WHU-W_LIV-W_fc-web.jpg" group-title="Fancode",West Ham United Women vs Liverpool Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249212/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249213_53038_CHL-W_CHE-W_fc-web.jpg" group-title="Fancode",Charlton Athletic F.C Women vs Chelsea F.C. Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249213/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1793533399050/4250255_CASACARDS_APP.png" group-title="Fancode",Ho Chi Minh City Women vs East Bengal FC Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250255/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1793533399053/4250261_CASACARDS_APP.png" group-title="Fancode",Melbourne City Women vs PFC Nasaf Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250261/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/A.-de-Minaur-vs-C.-Alcaraz-web-match-card.png" group-title="Fancode",Final: A. de Minaur vs C. Alcaraz [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249634/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Jonatan-Christie-vs-Lakshya-Sen_fc-web.jpg" group-title="Fancode",Finals: Christie vs Sen [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250525/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Jiri_Lehecka_vs_Valentin_Vacherot_FC-Web.png" group-title="Fancode",Final: J Lehecka vs V Vacherot [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249655/index.m3u8
 
 404: Not Found
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:20:32 PM 01-11-2026
+# last_update: 09:50:32 PM 01-11-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090551659" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792882740618355_ISL26_KSHI_vs_FC_GOA_live_landscape_thumb.jpg" group-title="Fancode", Inter Kashi vs FC Goa | MG Indian Super League 2026-27 [English]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTb1cbprod-PlaybackConfig/2018458/footlive0111/ENG/master.m3u8?hdnea=exp=1793584287~acl=/*~id=95483742250935343466548127922143~hmac=698c63f3595885d158ad9c7dd189170bd1b609a3b0fc410850e0651b21b35246
