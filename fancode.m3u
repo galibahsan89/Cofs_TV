@@ -2,15 +2,23 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 10:34:49 AM 02-11-2026 (BD Time)
-# Live Match : 1
+# Last Updated: 07:06:50 PM 02-11-2026 (BD Time)
+# Live Match : 5
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249670_53087_QUN_VCT_FC-WEB.jpg" group-title="Fancode",Victoria vs Queensland [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249670/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250365_53124_SPR_CWR_fc-Web_1793616701602.jpg" group-title="Fancode",Chitwan Rhinos vs Sudurpaschim Royals [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250365/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250500_53130_EMB_AJM_fc-web_1792412930091.jpg" group-title="Fancode",Emirates Blues vs Ajman [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250500/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" group-title="Fancode",Court 2 [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250547/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" group-title="Fancode",Court 1 [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250548/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" group-title="Fancode",World Feed [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250549/index.m3u8
 
 404: Not Found
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:50:39 PM 02-11-2026
+# last_update: 06:50:39 PM 02-11-2026
