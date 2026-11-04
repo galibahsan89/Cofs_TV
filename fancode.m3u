@@ -2,32 +2,20 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 09:06:48 PM 04-11-2026 (BD Time)
-# Live Match : 8
+# Last Updated: 03:24:26 AM 05-11-2026 (BD Time)
+# Live Match : 2
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250494_53130_ABD_AJM_fc-web_1792412929370.jpg" group-title="Fancode",Ajman vs Abu Dhabi [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250504/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249003_53057_ARK_GGS_fc-web_1789025066349.jpg" group-title="Fancode",FK Arkadag vs Golgohar Sirjan SC [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249003/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Football_FC-Web.png" group-title="Fancode",East Bengal FC Women vs Hwacheon KSPO WFC [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250257/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Football_FC-Web.png" group-title="Fancode",PFC Nasaf Women vs Beijing Jingtan FC Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250263/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" group-title="Fancode",Court 2 [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250555/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" group-title="Fancode",Court 1 [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250556/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Novak-Djokovic-vs-Rinky-Hijikata_fc-web.jpg" group-title="Fancode",Djokovic vs Hijikata [English]
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250007_52993_BRI_WOL_fc-web.jpg" group-title="Fancode",Bristol City F.C. vs Wolverhampton Wanderers F.C. [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250007/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" group-title="Fancode",World Feed [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4250557/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" group-title="Fancode",Court 3 [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250558/index.m3u8
 
 404: Not Found
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:50:34 AM 05-11-2026
+# last_update: 03:50:31 AM 05-11-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090551915" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792955587277243_UCL26_MD4_RBLeipzig_vs_ManCity_landscape_thumb.jpg" group-title="Fancode", RB Leipzig vs Manchester City | UEFA Champions League 2026-27 [English]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT7a8bprod-PlaybackConfig/2018457/footlive0411/ENG/master.m3u8?hdnea=exp=1793865070~acl=/*~id=46029341793226549921227223927290~hmac=5120245a327e73790fe240e2ccfcfd67ed7a317392ff12ca1d83aa44f2eb3e50
