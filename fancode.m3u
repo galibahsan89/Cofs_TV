@@ -2,16 +2,26 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 06:04:32 AM 04-11-2026 (BD Time)
-# Live Match : 0
+# Last Updated: 12:50:44 PM 04-11-2026 (BD Time)
+# Live Match : 5
 #=================================
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png" group-title="Fancode",United Arab Emirates vs Oman
+https://fancode.sm-monirul-islam-rs.workers.dev/4250521/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" group-title="Fancode",Court 2
+https://fancode.sm-monirul-islam-rs.workers.dev/4250555/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" group-title="Fancode",Court 1
+https://fancode.sm-monirul-islam-rs.workers.dev/4250556/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" group-title="Fancode",World Feed
+https://fancode.sm-monirul-islam-rs.workers.dev/4250557/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" group-title="Fancode",Court 3
+https://fancode.sm-monirul-islam-rs.workers.dev/4250558/index.m3u8
 
 404: Not Found
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:20:36 PM 04-11-2026
+# last_update: 01:50:38 PM 04-11-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090552113" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028131/1793689445603200_NZvsIND_1st_odi_landscape_thumb.jpg" group-title="Fancode", 1st ODI | India Tour of New Zealand 2026 [English]
 https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1793800256~acl=/*~id=84635706087704210471074559953035~hmac=ff2126721d1e595f1d4ee82aa727513b83d624802474bb969733c3a860defb53
