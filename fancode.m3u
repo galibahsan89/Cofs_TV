@@ -2,18 +2,24 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 12:50:44 PM 04-11-2026 (BD Time)
-# Live Match : 5
+# Last Updated: 09:06:48 PM 04-11-2026 (BD Time)
+# Live Match : 8
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png" group-title="Fancode",United Arab Emirates vs Oman
-https://fancode.sm-monirul-islam-rs.workers.dev/4250521/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" group-title="Fancode",Court 2
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250494_53130_ABD_AJM_fc-web_1792412929370.jpg" group-title="Fancode",Ajman vs Abu Dhabi [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250504/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249003_53057_ARK_GGS_fc-web_1789025066349.jpg" group-title="Fancode",FK Arkadag vs Golgohar Sirjan SC [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249003/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Football_FC-Web.png" group-title="Fancode",East Bengal FC Women vs Hwacheon KSPO WFC [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250257/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Football_FC-Web.png" group-title="Fancode",PFC Nasaf Women vs Beijing Jingtan FC Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250263/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" group-title="Fancode",Court 2 [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4250555/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" group-title="Fancode",Court 1
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" group-title="Fancode",Court 1 [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4250556/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" group-title="Fancode",World Feed
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Novak-Djokovic-vs-Rinky-Hijikata_fc-web.jpg" group-title="Fancode",Djokovic vs Hijikata [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4250557/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" group-title="Fancode",Court 3
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" group-title="Fancode",Court 3 [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4250558/index.m3u8
 
 404: Not Found
@@ -21,7 +27,10 @@ https://fancode.sm-monirul-islam-rs.workers.dev/4250558/index.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 08:20:38 PM 04-11-2026
+# last_update: 08:50:36 PM 04-11-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090552122" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027304/1792890776152359_UYL26_MD4_RC_Lens_vs_Como_landscape_thumb.jpg" group-title="Fancode", RC Lens vs Como | UEFA Youth League 2026-27 [English]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe3b6prod-PlaybackConfig/2120301/footlive0411/ENG/master.m3u8?hdnea=exp=1793839852~acl=/*~id=69885559663089223148204455128802~hmac=37e47dcf73cd02f2f58618579ea185c58639360a21d6a6aaf73b14855f7a13c3
+
+#EXTINF:-1 tvg-id="sonyliv-1090552123" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027304/1792891167048359_UYL26_MD4_Dortmund_vs_Real_Betis_landscape_thumb.jpg" group-title="Fancode", Dortmund vs Real Betis | UEFA Youth League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2d27prod-PlaybackConfig/2018458/footlive0411/ENG/master.m3u8?hdnea=exp=1793847058~acl=/*~id=50344397498331578114539821408348~hmac=ce6e01f2d2e531069c1ab0a54614ae6fe64b89f731cf6fe127dea4097a027fbf
