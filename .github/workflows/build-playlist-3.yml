@@ -1,0 +1,35 @@
+name: Build IPTV playlist 3 (manual test)
+
+on:
+  workflow_dispatch:   # runs only when you click "Run workflow"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest      # change to: self-hosted  if you set up a runner on your network
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Test connectivity
+        run: curl -sS -m 20 -o /dev/null -w "HTTP %{http_code}\n" http://172.19.178.180/index.php
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Build playlist
+        run: python build_playlist_3.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add playlist_3.m3u
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Update playlist 3 ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+            git pull --rebase
+            git push
+          fi
