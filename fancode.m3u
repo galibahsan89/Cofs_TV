@@ -2,28 +2,20 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 12:39:47 AM 09-11-2026 (BD Time)
-# Live Match : 6
+# Last Updated: 04:39:48 AM 09-11-2026 (BD Time)
+# Live Match : 2
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg" group-title="Fancode",Crystal Palace Women vs Charlton Athletic F.C Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250759/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg" group-title="Fancode",Tottenham Hotspur Women vs Brighton and Hove Albion Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250760/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg" group-title="Fancode",London City Lionesses vs Birmingham City F.C. Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250761/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Qatar-_GP_2026_FC-WEB.jpg" group-title="Fancode",Race Day [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/139935/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/B-Shelton-vs-C-Alcaraz_fc-web.jpg" group-title="Fancode",Final: B Shelton vs C Alcaraz [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250574/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Bybit-Stockholm-Open_2026_FC-WEB.jpg" group-title="Fancode",World Feed [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250581/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship_Web-match-card_1793992817308.png" group-title="Fancode",Day 4 [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250600/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250612_53143_WTGL_LOC_FC-Web.png" group-title="Fancode",LAGC vs NYGC [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250612/index.m3u8
 
 404: Not Found
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 04:20:31 AM 09-11-2026
+# last_update: 04:50:32 AM 09-11-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090553299" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028450/1793956566466809_NZ_A_vs_IND_A_3rd_Unofficial_Test_Day3_landscape_thumb.jpg" group-title="Fancode", 3rd Unofficial Test - Day 3 | India A Tour of New Zealand [English]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2120299/Criclive0811/ENG/master.m3u8?hdnea=exp=1794217853~acl=/*~id=67738885961920361253989044163400~hmac=5ecf3dde088444646487b427e01273b436f7f242b2dcc45d96be89e616c7ba5b
