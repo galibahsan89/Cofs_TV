@@ -2,20 +2,16 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 02:56:51 AM 10-11-2026 (BD Time)
-# Live Match : 2
+# Last Updated: 09:17:38 AM 10-11-2026 (BD Time)
+# Live Match : 0
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Mini.png" group-title="Fancode",West Indies A vs England Lions [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250207/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Bybit-Stockholm-Open_2026_FC-WEB.jpg" group-title="Fancode",World Feed [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250582/index.m3u8
 
 404: Not Found
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 08:20:31 AM 10-11-2026
+# last_update: 08:50:33 AM 10-11-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090553321" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028620/1794072411936945_NZvsIND_3rd_ODI_live_landscape_thumb.jpg" group-title="Fancode", 3rd ODI | India Tour of New Zealand 2026 [English]
 https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1794318652~acl=/*~id=27739781108605900451080966186628~hmac=10c7f7c75ce6e6144e1373605dee4c490ed69f1eb0b08bfb12b34b82ebf86b9f
