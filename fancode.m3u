@@ -2,18 +2,16 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 04:40:34 PM 12-11-2026 (BD Time)
-# Live Match : 1
+# Last Updated: 12:41:37 AM 13-11-2026 (BD Time)
+# Live Match : 0
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250376_53124_BK_PKA_fc-Web_1793616701804.jpg" group-title="Fancode",Pokhara Avengers vs Biratnagar Kings [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250376/index.m3u8
 
 404: Not Found
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:50:32 PM 12-11-2026
+# last_update: 12:50:31 AM 13-11-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090553566" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027618/1793185950770769_UNL26_MD5_Turkiye-vs-Belgium_live_landscape_thumb.jpg" group-title="Fancode", Türkiye vs Belgium | UEFA Nations League 2026-27 [English]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT59bcprod-PlaybackConfig/2120303/Footlive1211/ENG/master.m3u8?hdnea=exp=1794545448~acl=/*~id=45710757988097459385176562298993~hmac=09326f5daefc2f76546d7e314995df1f54a891626d7f8b551c00e12204ef6f32
