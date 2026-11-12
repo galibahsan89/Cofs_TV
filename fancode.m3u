@@ -2,24 +2,18 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 08:41:38 AM 12-11-2026 (BD Time)
-# Live Match : 4
+# Last Updated: 04:40:34 PM 12-11-2026 (BD Time)
+# Live Match : 1
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249671_53087_NSW_SAU_FC-WEB.jpg" group-title="Fancode",New South Wales vs South Australia [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249671/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249672_53087_VCT_WAU_FC-WEB.jpg" group-title="Fancode",Victoria vs Western Australia [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249672/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249673_53087_QUN_TAS_FC-WEB.jpg" group-title="Fancode",Queensland vs Tasmania [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249673/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Japan-Masters_fc-web.jpg" group-title="Fancode",Round of 16 [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250630/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250376_53124_BK_PKA_fc-Web_1793616701804.jpg" group-title="Fancode",Pokhara Avengers vs Biratnagar Kings [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250376/index.m3u8
 
 404: Not Found
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 04:20:33 PM 12-11-2026
+# last_update: 05:20:34 PM 12-11-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090553557" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398859855427_DP_World_Tour_Championship_Dubai_day1_landscape_thumb.jpg" group-title="Fancode", DP World Tour Champinship, Dubai - Day 1 | DP World Tour [English]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe0ffprod-PlaybackConfig/2120300/Golf_DPW1211/ENG/master.m3u8?hdnea=exp=1794509456~acl=/*~id=12741215043937996646257804767319~hmac=6bc2bdad603750242332acb03d8326c7d81ce224e17e123a22248022bd10a0be
