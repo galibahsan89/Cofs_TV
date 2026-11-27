@@ -2,20 +2,20 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 12:20:36 AM 27-11-2026 (BD Time)
+# Last Updated: 07:51:39 AM 27-11-2026 (BD Time)
 # Live Match : 1
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4251055_53162_ADKR_MIE_FC-APP.jpg" group-title="Fancode",Mi Emirates Vs Abu Dhabi Knight Riders
-https://fancode.sm-monirul-islam-rs.workers.dev/4251055/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249676_53087_SAU_VCT_FC-WEB.jpg" group-title="Fancode",South Australia Vs Victoria
+https://fancode.sm-monirul-islam-rs.workers.dev/4249676/index.m3u8
 
 404: Not Found
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 06:50:33 AM 27-11-2026
+# last_update: 07:50:27 AM 27-11-2026
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="Fancode",2nd Test - Day 1 - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795790633~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=151aec3b4cb1ba2fb3174fed29391de44676331df71bfc3425566ffa4e7e2df9
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029986/1795622243895554_DP_World_Tour_BMW_PGA_day2_landscape_thumb.jpg" group-title="Fancode",BMW Australian PGA Championship - Day 2 - DP World Tour
-https://sonydaimenew.akamaized.net/hls/live/2118865/Golf_BMW2611/ENG/master.m3u8?hdnea=exp=1795790633~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=151aec3b4cb1ba2fb3174fed29391de44676331df71bfc3425566ffa4e7e2df9
+https://sonydaimenew.akamaized.net/hls/live/2118865/Golf_BMW2611/ENG/master.m3u8?hdnea=exp=1795794226~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=5fbdb7cca7e9745826975b0ff5e63199d002ee75d3dc08577bcc78d51ed16952
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="Fancode",2nd Test - Day 1 - India Tour of New Zealand 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795794226~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=5fbdb7cca7e9745826975b0ff5e63199d002ee75d3dc08577bcc78d51ed16952
