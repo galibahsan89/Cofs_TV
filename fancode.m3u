@@ -2,18 +2,28 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 08:28:56 AM 28-11-2026 (BD Time)
-# Live Match : 0
+# Last Updated: 04:47:39 PM 28-11-2026 (BD Time)
+# Live Match : 6
 #=================================
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IMG_7278.jpeg" group-title="Fancode",Sohar Smashers Women Vs Ghubra Giants Women
+https://fancode.sm-monirul-islam-rs.workers.dev/4250913/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250424_53125_ST-W_SS-W_fc-web_1793352702043.jpg" group-title="Fancode",Sydney Sixers Women Vs Sydney Thunder Women
+https://fancode.sm-monirul-islam-rs.workers.dev/4250424/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Venice-Livewires-vs-Napoli-Knights_web.png" group-title="Fancode",Venice Livewires Vs Napoli Knights
+https://fancode.sm-monirul-islam-rs.workers.dev/4251150/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4251057_53162_MIE_DV_FC-APP.jpg" group-title="Fancode",Mi Emirates Vs Desert Vipers
+https://fancode.sm-monirul-islam-rs.workers.dev/4251057/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Valencia_Web.jpg" group-title="Fancode",Day 2
+https://fancode.sm-monirul-islam-rs.workers.dev/139988/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249864_53101_CCM_AFC_fc-Web_1792223292223.jpg" group-title="Fancode",Central Coast Mariners Vs Auckland
+https://fancode.sm-monirul-islam-rs.workers.dev/4249864/index.m3u8
 
 404: Not Found
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 03:50:32 PM 28-11-2026
+# last_update: 04:50:30 PM 28-11-2026
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000030172/1795785171790736_Sail-GP_Mubadala-Abu-Dhabi_Day-1_live_landscape_thumb.jpg" group-title="Fancode",Mubadala Abu Dhabi Sail GP - Day 1 - Sail GP 2026
-https://sonydaimenew.akamaized.net/hls/live/2120301/Sail_Mub2811/ENG/master.m3u8?hdnea=exp=1795909432~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=ebe0de820aa0fded2f2c784a2c66a05f8b63e20f80e302e5545cb3a2d90f6467
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000030044/1795694818521427_AO_wildcard_playoffs_2027_Womens_and_Mens_Singles_Final_landscape_thumb.jpg" group-title="Fancode",Men's & Women's Singles - Final - AO Asia Pacific Wildcard Playoffs 2027
-https://sonydaimenew.akamaized.net/hls/live/2120299/Tennis_A2811/ENG/master.m3u8?hdnea=exp=1795909432~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=ebe0de820aa0fded2f2c784a2c66a05f8b63e20f80e302e5545cb3a2d90f6467
+https://sonydaimenew.akamaized.net/hls/live/2120301/Sail_Mub2811/ENG/master.m3u8?hdnea=exp=1795913030~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=13d4d3262cfdb82a7f3bc060d3a887224c62662d981b76e6ad493de973b54a7e
