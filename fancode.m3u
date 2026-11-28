@@ -2,22 +2,18 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 01:47:52 AM 28-11-2026 (BD Time)
-# Live Match : 2
+# Last Updated: 08:28:56 AM 28-11-2026 (BD Time)
+# Live Match : 0
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250970_53025_ITT_NEOM_FC-App_1795077050706.png" group-title="Fancode",Al Ittihad Vs Neom Sc
-https://fancode.sm-monirul-islam-rs.workers.dev/4250970/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1795678540541/4251117_CASACARDS_SPORTY_APP.png" group-title="Fancode",Leganes Vs Ce Sabadell
-https://fancode.sm-monirul-islam-rs.workers.dev/4251117/index.m3u8
 
 404: Not Found
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 07:20:37 AM 28-11-2026
+# last_update: 08:20:30 AM 28-11-2026
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029986/1795622259556554_DP_World_Tour_BMW_PGA_day3_landscape_thumb.jpg" group-title="Fancode",BMW Australian PGA Championship - Day 3 - DP World Tour
-https://sonydaimenew.akamaized.net/hls/live/2120303/Golf_BMW2711/ENG/master.m3u8?hdnea=exp=1795878836~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=c865ee4475b8b8cae15f3b686d567c54725b0e7fff97da78f3686b50c1dd5c63
+https://sonydaimenew.akamaized.net/hls/live/2120303/Golf_BMW2711/ENG/master.m3u8?hdnea=exp=1795882430~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=af8a94c5e225bd75d6e425a11fff82653176e6f1befb3df28416a7173ccce6fe
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029844/1795521587084816_NZ_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" group-title="Fancode",2nd Test - Day 2 - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795878836~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=c865ee4475b8b8cae15f3b686d567c54725b0e7fff97da78f3686b50c1dd5c63
+https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795882430~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=af8a94c5e225bd75d6e425a11fff82653176e6f1befb3df28416a7173ccce6fe
